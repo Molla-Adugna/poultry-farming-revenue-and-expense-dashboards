@@ -84,3 +84,47 @@ For issues or suggestions, please open an Issue in the repository.
 ## 📜 Permission Notice
 The dashboards and data entry sheet were developed for Meseret Fekade Integrated Poultry Farm (MFIPF).  
 The **owner has granted explicit permission** for this project to be showcased in this GitHub portfolio as a demonstration of technical and analytical skills.
+## 📂 Repository Structure – MFIPF Excel Dashboard
+```
+MFIPF-Excel-Dashboard/
+│
+├── 📄 README.md                # Project overview, features, usage, license
+│
+├── 📂 docs/                    # Documentation and guides
+│   ├── installation.md         # Step-by-step setup instructions
+│   ├── usage.md                # How to use dashboards and VBA buttons
+│   └── contribution.md         # Contribution guidelines
+│
+├── 📂 screenshots/             # Project visuals
+│   ├── data-entry.png          # Data Entry Sheet screenshot
+│   ├── revenue-dashboard.png   # Revenue Dashboard screenshot
+│   └── expense-dashboard.png   # Expense Dashboard screenshot
+│
+├── 📂 src/                     # Source files
+│   ├── MFIPF_Dashboard.xlsm    # Main Excel file with VBA macros
+│   └── sample-data.xlsx        # Example dataset for demo/testing
+│
+├── 📂 assets/                  # Logos, icons, and branding
+│   └── mfipf-logo.png
+│
+└── 📂 tests/                   # Optional test cases or validation scripts
+    └── validation-checks.xlsx
+```
+## 🔐 Security Note 
+
+⚠️Ensure macros are only enabled if you trust the source of the file. This file is safe and developed for internal use at MFIPF.  
+⚠️All the informations in the file are NOT reall, rather I used it just for an example purpose.
+
+---
+
+## 📞 Contact
+For updates, support, or customization:
+
+Developed by: Molla Adugna  
+
+📧 Email: mollaadugna@gmail.com  
+🌐 Portfolio Wix website: https://mollaadugna.wixsite.com/molla-adugna-1
+
+## 📍 Location: Dessie, Ethiopia
+
+
