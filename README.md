@@ -100,7 +100,9 @@ MFIPF-Excel-Dashboard/
 **For updates, support, or customization:**
 
 📧 Email: mollaadugna@gmail.com  
-🌐 Portfolio Wix website: https://mollaadugna.wixsite.com/molla-adugna-1
+🌐 Portfolio Wix website: https://mollaadugna.wixsite.com/molla-adugna-1  
+👤 LinkedIn: https://tinyurl.com/3kt7a3ph  
+▶️ https://www.youtube.com/@mollaadugna8396
 
 ## 📍 Location: Dessie, Ethiopia  
 **Developed by: Molla Adugna**
