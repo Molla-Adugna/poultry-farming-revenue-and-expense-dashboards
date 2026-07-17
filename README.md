@@ -15,15 +15,11 @@ This project is officially permitted by the owner of the dashboard to be showcas
 | **Expense Dashboard** | Detailed breakdown of feed, labor, utilities, and other costs with charts. |
 | **VBA Automation** | One‑click buttons for report generation, navigation, and data refresh. |
 | **Feed Sufficiency Tracker** | Calculates feed consumption vs. stock to prevent shortages. |
-| **Usage Guide** | Step‑by‑step documentation for easy setup and operation. |
-| **Customization Optionsvigation
-
+| **Client Usage Guide** | Step‑by‑step pdf documentation for easy setup and operation. |
 
 ## ⚙️ Tech Stack
-**- Excel –** PivotTables, charts, conditional formatting
-
-**- Power Query –** ETL automation for cleaning and transforming data
-
+**- Excel –** PivotTables, charts, conditional formatting  
+**- Power Query –** ETL automation for cleaning and transforming data  
 **- VBA Macros –** interactive buttons and workflow automation
 
 ## 📸 Screenshots
@@ -101,13 +97,11 @@ MFIPF-Excel-Dashboard/
 ---
 
 ## 📞 Contact
-For updates, support, or customization:
-
-Developed by: Molla Adugna  
+**For updates, support, or customization:**
 
 📧 Email: mollaadugna@gmail.com  
 🌐 Portfolio Wix website: https://mollaadugna.wixsite.com/molla-adugna-1
 
-## 📍 Location: Dessie, Ethiopia
-
+## 📍 Location: Dessie, Ethiopia  
+**Developed by: Molla Adugna**
 
