@@ -27,20 +27,20 @@ This project is officially permitted by the owner of the dashboard to be showcas
 **- VBA Macros –** interactive buttons and workflow automation
 
 ## 📸 Screenshots
+
 <details>
 <summary>📊 Data Entry Sheet</summary>
-Daily records for chickens, eggs, feed, and costs.
-</details>
+
+![Daily records for chickens, eggs, feed, and costs](https://github.com/Molla-Adugna/poultry-farming-revenue-and-expense-dashboards/blob/main/screenshots/MFIPF%20Data%20Entry%20Form%20scren%20shot.png?raw=tru)</details>
 
 <details>
 <summary>💰 Revenue Dashboard</summary>
-KPIs for sales, growth, and revenue performance.
-</details>
 
+![KPIs for sales, growth, and revenue performance](https://github.com/Molla-Adugna/poultry-farming-revenue-and-expense-dashboards/blob/main/screenshots/MFIPF%20Revenue%20Dashboard%20scren%20shot2.png?raw=true)</details>
 <details>
 <summary>📉 Expense Dashboard</summary>
-Breakdown of expenses, feed sufficiency, and ratios.
-</details>
+
+![KPIs for sales, growth, and revenue performance](https://github.com/Molla-Adugna/poultry-farming-revenue-and-expense-dashboards/blob/main/screenshots/MFIPF%20Expense%20Dashboard%20scren%20shot.png?raw=true)</details>
 
 ## 🚀 Installation & Usage
 bash  
