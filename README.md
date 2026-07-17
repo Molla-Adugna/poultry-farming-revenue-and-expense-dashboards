@@ -88,12 +88,9 @@ The **owner has granted explicit permission** for this project to be showcased i
 ```
 MFIPF-Excel-Dashboard/
 │
-├── 📄 README.md                # Project overview, features, usage, license
+├── 📄 README.md                # Project overview, features, usage, Permision of the owner
 │
-├── 📂 docs/                    # Documentation and guides
-│   ├── installation.md         # Step-by-step setup instructions
-│   ├── usage.md                # How to use dashboards and VBA buttons
-│   └── contribution.md         # Contribution guidelines
+├── 📂 docs/                    # Documentation
 │
 ├── 📂 screenshots/             # Project visuals
 │   ├── data-entry.png          # Data Entry Sheet screenshot
