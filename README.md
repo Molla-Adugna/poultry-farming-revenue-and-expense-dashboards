@@ -77,8 +77,6 @@ Contributions are welcome!
 4. Push to your branch
 5. Open a Pull Request
 
-For issues or suggestions, please open an Issue in the repository.
-
 ## 📜 Permission Notice
 The dashboards and data entry sheet were developed for Meseret Fekade Integrated Poultry Farm (MFIPF).  
 The **owner has granted explicit permission** for this project to be showcased in this GitHub portfolio as a demonstration of technical and analytical skills.
@@ -86,24 +84,14 @@ The **owner has granted explicit permission** for this project to be showcased i
 ```
 MFIPF-Excel-Dashboard/
 │
-├── 📄 README.md                # Project overview, features, usage, Permision of the owner
-│
-├── 📂 docs/                    # Documentation
+├── 📂 documentations/                    # Ziped MFIPF_Revenue_And_Expense_Dashboard Files
 │
 ├── 📂 screenshots/             # Project visuals
 │   ├── data-entry.png          # Data Entry Sheet screenshot
 │   ├── revenue-dashboard.png   # Revenue Dashboard screenshot
 │   └── expense-dashboard.png   # Expense Dashboard screenshot
 │
-├── 📂 src/                     # Source files
-│   ├── MFIPF_Dashboard.xlsm    # Main Excel file with VBA macros
-│   └── sample-data.xlsx        # Example dataset for demo/testing
-│
-├── 📂 assets/                  # Logos, icons, and branding
-│   └── mfipf-logo.png
-│
-└── 📂 tests/                   # Optional test cases or validation scripts
-    └── validation-checks.xlsx
+├── 📄 README.md                # Project overview, features, usage, Permision of the owner
 ```
 ## 🔐 Security Note 
 
