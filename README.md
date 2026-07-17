@@ -47,9 +47,8 @@ Breakdown of expenses, feed sufficiency, and ratios.
 ## 🚀 Installation & Usage
 bash  
 
-git clone https://github.com/yourusername/MFIPF-Excel-Dashboard.git  
+```git clone https://github.com/yourusername/MFIPF-Excel-Dashboard.git```
 
-  
 1. Open the Excel file in Microsoft Excel 2016 or later
 2. Enable Macros to activate VBA buttons
 3. Input records in the Data Entry Sheet
@@ -59,38 +58,29 @@ git clone https://github.com/yourusername/MFIPF-Excel-Dashboard.git
 ## 📈 Impact
 This dashboard empowers farm managers to:
 
-Monitor financial health and profitability
-
-Identify cost drivers and efficiency gaps
-
-Make data‑informed decisions for sustainable growth
+- Monitor financial health and profitability
+-  Identify cost drivers and efficiency gaps
+-  Make data‑informed decisions for sustainable growth
 
 ## 🔗 Portfolio Value
 This project demonstrates:
 
-Business Intelligence (BI) with Excel & Power Query
-
-Data visualization and storytelling with dashboards
-
-Automation using VBA for enhanced usability
-
-Domain expertise in agricultural business applications
+- Business Intelligence (BI) with Excel & Power Query
+- Data visualization and storytelling with dashboards
+- Automation using VBA for enhanced usability
+- Domain expertise in agricultural business applications
 
 ## 🤝 Contribution Guide
 Contributions are welcome!
 
-Fork the repository
-
-Create a new branch (feature/your-feature)
-
-Commit your changes
-
-Push to your branch
-
-Open a Pull Request
+1. Fork the repository
+2. Create a new branch (feature/your-feature)
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
 
 For issues or suggestions, please open an Issue in the repository.
 
 ## 📜 Permission Notice
-The dashboards and data entry sheet were developed for Meseret Fekade Integrated Poultry Farm (MFIPF).
-The owner has granted explicit permission for this project to be showcased in this GitHub portfolio as a demonstration of technical and analytical skills.
+The dashboards and data entry sheet were developed for Meseret Fekade Integrated Poultry Farm (MFIPF).  
+The **owner has granted explicit permission** for this project to be showcased in this GitHub portfolio as a demonstration of technical and analytical skills.
