@@ -22,11 +22,11 @@ This project is officially permitted by the owner of the dashboard to be showcas
 
 
 ## ⚙️ Tech Stack
-**Excel –** PivotTables, charts, conditional formatting
+**- Excel –** PivotTables, charts, conditional formatting
 
-**Power Query –** ETL automation for cleaning and transforming data
+**- Power Query –** ETL automation for cleaning and transforming data
 
-**VBA Macros –** interactive buttons and workflow automation
+**- VBA Macros –** interactive buttons and workflow automation
 
 ## 📸 Screenshots
 <details>
@@ -45,17 +45,16 @@ Breakdown of expenses, feed sufficiency, and ratios.
 </details>
 
 ## 🚀 Installation & Usage
-bash
-git clone https://github.com/yourusername/MFIPF-Excel-Dashboard.git
-Open the Excel file in Microsoft Excel 2016 or later
+bash  
 
-Enable Macros to activate VBA buttons
+git clone https://github.com/yourusername/MFIPF-Excel-Dashboard.git  
 
-Input records in the Data Entry Sheet
-
-Use toggle buttons to switch between dashboards
-
-Press Refresh to update with the latest data
+  
+1. Open the Excel file in Microsoft Excel 2016 or later
+2. Enable Macros to activate VBA buttons
+3. Input records in the Data Entry Sheet
+4. Use toggle buttons to switch between dashboards
+5. Press Refresh to update with the latest data
 
 ## 📈 Impact
 This dashboard empowers farm managers to:
