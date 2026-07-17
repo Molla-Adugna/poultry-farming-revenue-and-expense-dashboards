@@ -1,8 +1,6 @@
 # 🐓 Meseret Fekade Integrated Poultry Farm (MFIPF) – Excel Dashboard
-https://img.shields.io/badge/Excel-Dashboard-green?logo=microsoft-excel  
-https://img.shields.io/badge/Power%20Query-ETL-blue?logo=microsoft-excel  
-https://img.shields.io/badge/VBA-Automation-orange?logo=visual-basic
-
+![Dashboard Overview](https://github.com/Molla-Adugna/poultry-farming-revenue-and-expense-dashboards/blob/main/screenshots/MFIPF%20GIF%20image.gif?raw=true
+) 
 ## 📌 Overview
 The MFIPF Excel Dashboard is a complete business intelligence solution for poultry farm management. It transforms raw records into actionable insights using interactive dashboards and VBA automation.
 
